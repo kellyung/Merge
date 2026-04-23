@@ -1,6 +1,6 @@
 ﻿public class Game
 {
-    public int StartingLives = 0;
+    public int StartingLives = 19999;
     public int Score = 0;
 
     public void AddScore(int points)
